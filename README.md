@@ -1,2 +1,3 @@
 # mon_premier_repository
-Faut bien commencer
+Faut bien commencer, par quelque chose de simple
+
